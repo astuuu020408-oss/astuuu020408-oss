@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Soumya Sharma!
 
-<!--
-**astuuu020408-oss/astuuu020408-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Tech CSE (AI & ML) Student
+- Studying at K.R. Mangalam University
+- Currently learning Python, Linux and Git
+- Interested in AI/ML and Software Development
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+|---|---|
+| Languages | Python (Beginner) |
+| Tools | Git, GitHub, VS Code |
+| Operating System | Linux |
+| Web Development | HTML, CSS, JavaScript (Basics) |
+
+## Featured Projects
+- NEEDMAP
+- Aqua Alert
+- Automatic Dog Feeder
+- CSE103 Lab 3
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/soumya-sharma-952326437
